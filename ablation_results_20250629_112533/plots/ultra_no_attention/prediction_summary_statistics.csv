@@ -1,0 +1,8 @@
+Metric,Value
+Count,300.0000
+Mean True Value,1005.7433
+Mean Predicted Value,1005.5006
+Mean Absolute Error,10.8237
+Root Mean Square Error,14.6220
+Mean Relative Error (%),6.5913
+R² Score,0.9994
